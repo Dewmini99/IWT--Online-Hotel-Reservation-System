@@ -1,0 +1,70 @@
+hr#hline {
+  border: 2px solid purple;
+}
+ul.menu{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	background-color:1A1B6C;
+	overflow: hidden;
+}
+li.menu{
+	float:left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align:center;
+	padding:10px 50px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color:purple;
+}
+
+	background-color:white;
+	padding:5px;
+}
+
+img1 {
+  opacity: 0.5;
+}
+
+img1:hover {
+  opacity: 1.0;
+  
+  {
+  height: 100%;
+}
+.hover-opacity-off:hover{
+	opacity:1;
+}
+.opacity{
+	opacity:0.60;
+
+
+
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+

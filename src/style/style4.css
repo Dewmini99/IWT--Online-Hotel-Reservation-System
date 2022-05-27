@@ -1,0 +1,18 @@
+.col-25 {
+  float: left;
+  width: 25%;
+  margin: 8px 0px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin:8px 0px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
